@@ -1,0 +1,11 @@
+La direccion 10.0.40.1 no respondió en: 03/25/2019, 18:46:04
+Después de 6 intentos:	La direccion 10.0.40.1 no respondió en: 03/25/2019, 18:46:04
+	Después de 4 intentos:La direccion 172.16.0.1 no respondió en: 03/25/2019, 18:46:18
+Después de 6 intentos:	La direccion 172.16.0.1 no respondió en: 03/25/2019, 18:46:18
+	Después de 4 intentos:La direccion 172.16.100.1 no respondió en: 03/25/2019, 18:46:27
+Después de 6 intentos:	La direccion 172.16.100.1 no respondió en: 03/25/2019, 18:46:27
+	Después de 4 intentos:La direccion 172.16.8.1 no respondió en: 03/25/2019, 18:46:36
+Después de 6 intentos:	La direccion 172.16.8.1 no respondió en: 03/25/2019, 18:46:36
+	Después de 4 intentos:La direccion 172.16.20.1 no respondió en: 03/25/2019, 18:46:46
+Después de 6 intentos:	La direccion 172.16.20.1 no respondió en: 03/25/2019, 18:46:46
+	Después de 4 intentos:
